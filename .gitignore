@@ -1,0 +1,15 @@
+# Ignore Inventor
+OldVersions/
+*.lck
+
+# Ignore exports
+*.stl
+
+# Ignore latex
+*.synctex.gz
+*.aux
+*.log
+
+# Ignore python
+__pycache__/
+*.pyc
